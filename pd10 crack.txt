@@ -1,0 +1,8 @@
+[Parallels Desktop 10 在官网上售价398元]
+
+1.如果已经安装了 PD 9 或 PD 10 的完美破解版,可直接覆盖安装；
+2.如果已经安装了 PD 10 的试用版，首先用 CleanMyMac 等软件完全卸载 PD 10, 并且删除「/Library/Preferences/Parallels」目录后再安装；
+
+
+
+下载地址： http://pan.baidu.com/s/1sjLPf7R 密码: ukqd
